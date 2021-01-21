@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+      /**/  
 p {
     font-size: 16px;
 }
@@ -58,13 +58,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+    
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
-.float-right {
+    /*changed to ID*/
+#float-right {
     float: right;
     margin-left: 25px;
 }
